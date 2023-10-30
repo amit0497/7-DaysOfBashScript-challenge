@@ -1,6 +1,6 @@
 # Day 2 Bash Scripting Challenge - Interactive File and Directory Explorer
 
-👋 Welcome to Day 2 of the Bash Scripting Challenge! 😃 In this challenge, you will be creating a bash script that serves as an interactive file and directory explorer. 📁 The script will allow you to explore files and directories in the current path and provide a character counting feature for user input. 🔍
+👋 Welcome to Day 2 of the Bash Scripting Challenge! 😃 In this challenge, you will be creating a bash script that serves as an interactive file and directory explorer. 📁 The script will allow you to explore files and directories in the current path and provide a character counting feature for user input.
 
 ## Challenge Description
 
