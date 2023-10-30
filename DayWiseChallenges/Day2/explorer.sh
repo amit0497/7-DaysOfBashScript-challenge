@@ -16,12 +16,14 @@ while true; do
    echo "Enter a Line of Text (Press Enter without text to exit):"
    read userinput
 
+# -z To check if a bash variable is empty
   if [[ -z $userinput ]];then
    
    echo "Exiting the Interactive Explorer. Goodbye!"
    exit
 
    else
+   # ${#userinput} To count the number of characters in a bash variable
      echo ${#userinput}
   fi
 
